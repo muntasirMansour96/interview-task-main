@@ -1,0 +1,15 @@
+com\progressoft\tools\exception\FileTypeNotCsvException.class
+com\progressoft\tools\Main$1.class
+com\progressoft\tools\ScoringSummary.class
+com\progressoft\tools\exception\DestinationDirectoryNotFoundException.class
+com\progressoft\tools\exception\IllegalNormalizeColumException.class
+com\progressoft\tools\Main.class
+com\progressoft\tools\ScoringSummaryImplementation.class
+com\progressoft\tools\Normalizer.class
+com\progressoft\tools\fileHandling\CsvFileHandling.class
+com\progressoft\tools\exception\NormalizeMethodException.class
+com\progressoft\tools\fileHandling\CsvFileHandlingImplementation.class
+com\progressoft\tools\NormalizationMethod.class
+com\progressoft\tools\exception\NormalizeColumNotFoundException.class
+com\progressoft\tools\exception\SourceFileNotFoundException.class
+com\progressoft\tools\NormalizerImplementation.class
